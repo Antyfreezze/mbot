@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+aiohttp = "==3.5.4"
+aiohttp-devtools = "==0.13"
+aiopg = "==0.16.0"
+SQLAlchemy = "==1.2.12"
+flake8 = "==3.7.7"
+mypy = "==0.701"
+pre-commit = "==1.16.1"
+pytest-asyncio = "==0.10.0"
+
+[requires]
+python_version = "3.7"

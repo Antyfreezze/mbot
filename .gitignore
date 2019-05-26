@@ -1,0 +1,5 @@
+.vscode
+.pycache
+.pytest_cache
+*.pyc
+secret.sh
